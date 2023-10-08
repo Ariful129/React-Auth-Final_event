@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Elegant Events",
+      "img": "https://i.ibb.co/B62Rmr3/ser1.jpg",
+      "price": 5000,
+      "short_description": "Create unforgettable memories with our exquisite wedding planning services.",
+      "full_description": "Elegant Events is dedicated to making your dream wedding a reality. Our team of experienced event planners will work closely with you to ensure every detail of your special day is perfect. From venue selection to floral arrangements, we have you covered."
+    },
+    {
+      "id": 2,
+      "name": "Charming Celebrations",
+      "img": "https://i.ibb.co/rkLsm93/ser2.jpg",
+      "price": 6500,
+      "short_description": "Crafting magical moments for your once-in-a-lifetime event.",
+      "full_description": "Charming Celebrations specializes in creating magical and memorable weddings. We believe every wedding should be unique and reflective of the couple's style. Our team will go above and beyond to bring your vision to life, ensuring a wedding day that you and your guests will cherish forever."
+    },
+    {
+      "id": 3,
+      "name": "Blissful Weddings",
+      "img": "https://i.ibb.co/FDz5NVr/serrr3.jpg",
+      "price": 4800,
+      "short_description": "Transforming your dream wedding into a reality.",
+      "full_description": "Blissful Weddings is committed to making your wedding day stress-free and spectacular. We offer comprehensive wedding planning services, tailored to your preferences and budget. Our team will take care of all the details, allowing you to relax and enjoy the most important day of your life."
+    },
+    {
+      "id": 4,
+      "name": "Dreamy Occasions",
+      "img": "https://i.ibb.co/gTMp13Z/sssss4.jpg",
+      "price": 5500,
+      "short_description": "Turning your dreams into a beautiful reality.",
+      "full_description": "Dreamy Occasions is dedicated to creating the wedding of your dreams. We understand the importance of every detail, no matter how small. Our goal is to make your special day as perfect and memorable as possible, leaving you and your guests with enchanting memories."
+    },
+    {
+      "id": 5,
+      "name": "Opulent Affairs",
+      "img": "https://i.ibb.co/FsPSBbN/serrr5.jpg",
+      "price": 7000,
+      "short_description": "Crafting opulent and extravagant weddings.",
+      "full_description": "Opulent Affairs specializes in curating extravagant and luxurious weddings. Our team of experts will work tirelessly to ensure every aspect of your wedding is opulent and grand, surpassing your expectations. From lavish decor to exquisite catering, we make your wedding a truly lavish affair."
+    },
+    {
+      "id": 6,
+      "name": "Whimsical Weddings",
+      "img": "https://i.ibb.co/Tw57MjM/ser6.jpg",
+      "price": 5200,
+      "short_description": "Adding a touch of whimsy to your special day.",
+      "full_description": "Whimsical Weddings is all about infusing a touch of magic and whimsy into your wedding. We take pride in creating unique, imaginative, and playful weddings that reflect your personality and style. Let us turn your wedding into a whimsical wonderland, where dreams come true."
+    }
+  ]
+  
