@@ -50,6 +50,7 @@ const Login = () => {
        signInWithGoogle()
        .then(res=>{
             console.log(res.user)
+            navigate('/')
        })
        .catch(error =>{
           console.error(error)

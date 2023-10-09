@@ -66,7 +66,7 @@ const Register = () => {
                 .then(()=>console.log('Profile Updated'))
                 .catch(error=> console.error(error))
                 //go to home page
-                navigate('/login')
+                navigate('/')
 
             })
             .catch(error => {
